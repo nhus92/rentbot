@@ -7,7 +7,7 @@ import asyncio
 import time
 
 # Bot konfiguráció
-TOKEN = "MTMwOTkyOTExNDIwMjkzMTI2Mg.GWrebp.4Vz6lnNGvSrfIN__peSgxsuGNZXA1hkD8V4aLA"
+TOKEN = ""
 RPC_URL = "https://api.devnet.solana.com"  # Devnet RPC
 CHANNEL_ID = 1310698152927428629  # Ide írd annak a csatornának az ID-jét
 ADMIN_CHANNEL_ID = 1310791509234155552  # Admin csatorna ID-ja
